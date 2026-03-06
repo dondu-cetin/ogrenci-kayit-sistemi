@@ -1,4 +1,4 @@
-# ogrenci-kayit-sistemi
+# Öğrenci Kayıt Sistemi
 
 Bu proje, Python ve SQLite kullanılarak geliştirilmiş, CRUD işlemlerini destekleyen temel bir veri yönetim sistemidir.
 
